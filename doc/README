@@ -1,0 +1,9 @@
+BackTest Framework for Automated Trading...
+
+Versions:
+	ruby -v
+		ruby 1.9.3p125 (2012-02-16 revision 34643) [x86_64-linux]
+	rails -v
+		Rails 3.2.3
+
+
